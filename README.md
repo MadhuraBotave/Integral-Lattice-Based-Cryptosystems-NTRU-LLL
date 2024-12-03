@@ -1,4 +1,4 @@
-# README for GitHub Repository: Integral Lattice-Based Cryptosystems: NTRU & LLL
+#Integral Lattice-Based Cryptosystems: NTRU & LLL
 
 ## Overview
 This repository contains the implementation and simulation of cryptographic concepts and attacks related to lattice-based systems, focusing on the NTRU cryptosystem and the Lenstra-Lenstra-Lovász (LLL) algorithm. It also includes simulations for the density of invertible elements in polynomial rings and an attack simulation on NTRU using LLL.
